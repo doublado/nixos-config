@@ -11,9 +11,6 @@
     ../../programs/development/lazygit.nix
     ../../programs/development/nvim.nix
 
-    # Fonts
-    ../../programs/fonts/fira-code.nix
-
     # Media
     ../../programs/media/spotify.nix
     ../../programs/media/stremio.nix

@@ -9,6 +9,7 @@
     ../../modules/system/auto-upgrade.nix
     ../../modules/system/bootloader.nix
     ../../modules/system/desktop-env.nix
+    ../../modules/system/fonts.nix
     ../../modules/system/locale.nix
     ../../modules/system/maintenance.nix
     ../../modules/system/networking.nix
