@@ -1,0 +1,8 @@
+keys:
+  - &user_nikjak age1cjx7faz57cjrprjr25y9qtzef6kntfyvddz2gnm2c6wa5mdtpd6q8lgv0k
+
+creation_rules:
+  - path_regex: secrets/[^/]+\.yaml$
+    key_groups:
+    - age:
+      - *user_nikjak
