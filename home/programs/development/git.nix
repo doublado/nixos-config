@@ -17,12 +17,9 @@
       
       [init]
         defaultBranch = main
-      
-      # Add any other git config you want here
     '';
     templates."gitconfig".path = "${config.home.homeDirectory}/.gitconfig";
   };
 
-  # Disable the programs.git module since we're managing .gitconfig with sops templates
   programs.git.enable = true;
 }
