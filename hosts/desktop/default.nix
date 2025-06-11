@@ -8,6 +8,7 @@
     # System
     ../../modules/system/auto-upgrade.nix
     ../../modules/system/bootloader.nix
+    ../../modules/system/bun.nix
     ../../modules/system/desktop-env.nix
     ../../modules/system/fonts.nix
     ../../modules/system/locale.nix
