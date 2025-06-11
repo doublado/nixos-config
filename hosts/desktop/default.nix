@@ -13,6 +13,7 @@
     ../../modules/system/locale.nix
     ../../modules/system/maintenance.nix
     ../../modules/system/networking.nix
+    ../../modules/system/node.nix
     ../../modules/system/nvidia.nix
     ../../modules/system/sops.nix
 
