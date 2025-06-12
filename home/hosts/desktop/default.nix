@@ -19,6 +19,7 @@
     ../../programs/utilities/firefox.nix
     ../../programs/utilities/kate.nix
     ../../programs/utilities/neofetch.nix
+    ../../programs/utilities/streamdeck.nix
   ];
 
   home.username = "nikjak";
