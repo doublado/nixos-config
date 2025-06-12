@@ -14,6 +14,9 @@
     ../../programs/development/nodejs.nix
     ../../programs/development/nvim.nix
 
+    # Games
+    ../../programs/games/minecraft.nix
+
     # Media
     ../../programs/media/spotify.nix
     ../../programs/media/stremio.nix
