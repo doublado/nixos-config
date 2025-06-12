@@ -8,14 +8,11 @@
     # System
     ../../modules/system/auto-upgrade.nix
     ../../modules/system/bootloader.nix
-    ../../modules/system/bun.nix
     ../../modules/system/desktop-env.nix
     ../../modules/system/fonts.nix
-    ../../modules/system/go.nix
     ../../modules/system/locale.nix
     ../../modules/system/maintenance.nix
     ../../modules/system/networking.nix
-    ../../modules/system/node.nix
     ../../modules/system/nvidia.nix
     ../../modules/system/sops.nix
 

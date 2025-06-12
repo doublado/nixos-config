@@ -6,9 +6,12 @@
     ../../programs/communication/vesktop.nix
 
     # Development
+    ../../programs/development/bun.nix
     ../../programs/development/code-cursor.nix
     ../../programs/development/git.nix
+    ../../programs/development/go.nix
     ../../programs/development/lazygit.nix
+    ../../programs/development/nodejs.nix
     ../../programs/development/nvim.nix
 
     # Media
