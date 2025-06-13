@@ -13,6 +13,7 @@
     ../../programs/development/lazygit.nix
     ../../programs/development/nvim.nix
     ../../programs/development/oh-my-posh.nix
+    ../../programs/development/rust.nix
     ../../programs/development/tmux.nix
     ../../programs/development/zoxide.nix
     ../../programs/development/zsh.nix
