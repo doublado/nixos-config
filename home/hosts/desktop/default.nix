@@ -22,6 +22,7 @@
     ../../programs/media/stremio.nix
 
     # Utilities
+    ../../programs/utilities/cursor.nix
     ../../programs/utilities/firefox.nix
     ../../programs/utilities/kate.nix
     ../../programs/utilities/neofetch.nix
