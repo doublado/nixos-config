@@ -24,5 +24,5 @@
 
   hardware.graphics.enable = true;
 
-  environment.variables.EDITOR = "nvim";
+  environment.variables.EDITOR = "cursor";
 }
