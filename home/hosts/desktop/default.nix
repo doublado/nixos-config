@@ -14,6 +14,7 @@
     ../../programs/development/lazygit.nix
     ../../programs/development/nodejs.nix
     ../../programs/development/nvim.nix
+    ../../programs/development/oh-my-posh.nix
     ../../programs/development/tmux.nix
     ../../programs/development/zsh.nix
 
