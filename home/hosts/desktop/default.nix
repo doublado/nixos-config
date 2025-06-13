@@ -27,6 +27,9 @@
     ../../programs/media/spotify.nix
     ../../programs/media/stremio.nix
 
+    # Modeling
+    ../../programs/modeling/bambu-studio.nix
+
     # Utilities
     ../../programs/utilities/cursor.nix
     ../../programs/utilities/firefox.nix
