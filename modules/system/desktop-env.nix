@@ -25,4 +25,6 @@
   hardware.graphics.enable = true;
 
   environment.variables.EDITOR = "cursor";
+
+  environment.variables.TERMINAL = "alacritty";
 }
