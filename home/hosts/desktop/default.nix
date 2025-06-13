@@ -9,6 +9,7 @@
     ../../programs/development/alacritty.nix
     ../../programs/development/bun.nix
     ../../programs/development/code-cursor.nix
+    ../../programs/development/fzf.nix
     ../../programs/development/git.nix
     ../../programs/development/go.nix
     ../../programs/development/lazygit.nix
@@ -16,6 +17,7 @@
     ../../programs/development/nvim.nix
     ../../programs/development/oh-my-posh.nix
     ../../programs/development/tmux.nix
+    ../../programs/development/zoxide.nix
     ../../programs/development/zsh.nix
 
     # Games
